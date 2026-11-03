@@ -1,0 +1,6 @@
+{
+  "name": "Tonex Solar Works",
+  "description": "Premium solar energy solutions, customer project reservation tracking, certified done installations, appointment scheduling synced with Google Calendar, and secure admin operations portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
